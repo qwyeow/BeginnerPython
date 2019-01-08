@@ -1,1 +1,1 @@
-Beginner Python from Coursera -completed mid 2017
+Beginner Python from Coursera. Completed mid 2017
